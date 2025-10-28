@@ -11,3 +11,11 @@
 # إنشاء ملفين search.html و products.php
 # إنشاء مجلد لصور المنتجانت
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d95e115-841c-4d6f-9063-8ff8ff7bf2ad" />
+
+## الطريقة باليوتيوب
+https://youtu.be/rITfGrTy_q4
+
+# كود html
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d5d29be9-56f5-4aa3-be5b-162fd5732fbb" />
+
+# كود css
