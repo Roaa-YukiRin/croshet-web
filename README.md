@@ -1,12 +1,8 @@
-# full-web-with-botstarb
-1447-4-16 2025-10-8 الأربعاء
+# task 6
+## اليوم السابع
+# تاريخ الحل:
+1447 \05\06  الثلاثاء جماد الأول
+2025 \10\28 Tuesday October
 
-<img width="1280" height="634" alt="image" src="https://github.com/user-attachments/assets/12400f9d-309a-48f1-a8fd-db809dcef201" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0e03ce23-9cd3-4acf-8611-7961482f633e" />
 
-===============================================================================================================================
-##  أجهز شعار الموقع عملته يدويا بعمله بالعرض بوروينت
-https://youtu.be/KabDXxgXN2Q
-## bootstrap
-https://getbootstrap.com/docs/5.3/getting-started/introduction/
-# الحل
-https://youtu.be/TgBpAM4rmms
