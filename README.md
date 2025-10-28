@@ -21,3 +21,9 @@ https://youtu.be/rITfGrTy_q4
 https://youtu.be/mDtH8hQbZGE
 
 # كود css
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08bf324f-ca46-4bfe-b104-caa98b6b7496" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d157a99-4ff2-4a34-a829-74fe6ae482fc" />
+
+
